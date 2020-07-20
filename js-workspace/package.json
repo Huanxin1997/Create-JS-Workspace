@@ -1,0 +1,14 @@
+{
+  "name": "js-workspace",
+  "version": "1.0.0",
+  "description": "ITA-Hans-jsWorkspace",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Hans",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
